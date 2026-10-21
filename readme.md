@@ -19,3 +19,9 @@ benchmark and tune compute kernels for performance.
 [blis-ukr-bench]: https://github.com/FZJ-JSC/jukefa-blis-ukr-bench
 [blistune]: https://github.com/FZJ-JSC/jukefa-blistune
 
+
+## Contact
+
+- Stepan Nassyr: [s.nassyr@fz-juelich.de](mailto:s.nassyr@fz-juelich.de)
+- Jayesh Badwaik: [j.badwaik@fz-juelich.de](mailto:j.badwaik@fz-juelich.de)
+- Andreas Herten: [a.herten@fz-juelich.de](mailto:a.herten@fz-juelich.de)
