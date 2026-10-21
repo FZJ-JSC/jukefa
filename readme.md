@@ -1,4 +1,6 @@
-# jukefa - Jülich Kernel Factory
+<h2 class="keyloom-title"><img src="share/jukefa/brandkit/jukefa-logo.svg" alt="Keyloom"></h2>
+
+
 
 > 🚧 **This repository is currently under construction.** 🚧
 
@@ -9,7 +11,7 @@ benchmark and tune compute kernels for performance.
 
 | Tool                             | Purpose                                                      |
 | -------------------------------- | ------------------------------------------------------------ |
-| [asmgen][asmgen]                 | generate GAS-style inline assembly for C and C++             |
+| [asmgen][asmgen]                 | Toolable ASM generator for SIMD/Vector ISAs                  |
 | [ukrgen][ukrgen]                 | generate microkernels on top of asmgen                       |
 | [blis-ukr-bench][blis-ukr-bench] | benchmark a BLIS microkernel in isolation                    |
 | [blistune][blistune]             | autotune BLIS block sizes and thread decomposition           |
